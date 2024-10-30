@@ -18,4 +18,6 @@
 - `*.png`
 - `*.gif`
 - `*.bmp`
- 
+### suport colors(console colors)
+![image](https://github.com/user-attachments/assets/061e4109-f8e2-4a6f-ad93-16ba04d5ae34)
+
