@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="data/example2.png" alt="before" width="200" />
-  <img src="images/image2.png" alt="Image 2" width="200" />
+  <img src="data/pika.png" alt="Image 2" width="200" />
 </p>
 
 
