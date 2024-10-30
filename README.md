@@ -1,4 +1,4 @@
-# an picture to ascii converter
+# a picture to ascii converter
 
 
 ### make sure your picture's pixel under 1000*1000
