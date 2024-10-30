@@ -1,8 +1,8 @@
 # a picture to ascii converter
 
 <p align="center">
-  <img src="data/example2.png" alt="before" width="200" />
-  <img src="data/pika.png" alt="Image 2" width="200" />
+  <img src="https://github.com/mokuri9518/ascii_in_console/blob/main/Release/data/example2.png?raw=true" alt="before" width="400" />
+  <img src="https://github.com/mokuri9518/ascii_in_console/blob/main/Release/data/pika.png?raw=true" alt="after" width="450" />
 </p>
 
 
